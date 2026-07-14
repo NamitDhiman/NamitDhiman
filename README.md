@@ -6,7 +6,7 @@
 🌱 Currently learning System Design & DevOps
 📫 Open to internships and collaborations
 ## 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/namit-dhiman-46b221353/)](https://linkedin.com/in/Namit Dhiman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:namit1081.namit@gmail.com) 
+[![LinkedIn]([https://www.linkedin.com/in/namit-dhiman-46b221353/](https://camo.githubusercontent.com/bd67bf4d79a3a9f301799e4b5e995861815cbc375f48be946a45b10ff28fc54a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465))]([https://linkedin.com/in/Namit Dhiman](https://www.linkedin.com/in/namit-dhiman-46b221353/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:namit1081.namit@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
